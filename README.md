@@ -2,7 +2,10 @@
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 # Contents
 ### Machine Learning
-* Predicting Boston Housing Prices: A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+* Ham and Spam Emails : Machine Learning project to predict whether the emails are hams or spams.
+• Used supervised learning algorithms such as Decision Trees, SVMs, Logistics Regression and LSTM. 
+• The final model predicted whether an email is ham or spam with 99.5% accuracy.
+
 * Supervised Learning: Finding Donors for CharityML: Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 * Unsupervised Learning: Creating Customer Segments: Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 * Reinforcement Learning: Training a Smartcab to Drive: Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
